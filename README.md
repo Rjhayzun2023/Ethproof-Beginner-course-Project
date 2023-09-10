@@ -7,6 +7,7 @@ This is a simple Solidity smart contract called **MyToken** that implements basi
 - [Requirements](#requirements)
 - [Contract Overview](#contract-overview)
 - [Usage](#usage)
+- [Authors](#authors)
 - [License](#license)
 
 ## Requirements
@@ -51,6 +52,10 @@ To use this contract:
 1. Deploy it to the Ethereum blockchain with the constructor parameters (`name`, `abbrv`, `initialSupply`) to create your custom token.
 
 2. Interact with the contract using Ethereum wallets or applications to mint and burn tokens as needed.
+
+## Authors
+
+Metacrafter Randel Jason B. Espiritu
 
 ## License
 
